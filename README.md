@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @syifacts
+- 👋 Hi, I’m Syifa Chandra Tiffani Sumardi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End and Back-end Web Development Learning Path
-- 💞️ I’m looking to collaborate on Movie Catalogue project
+- 🌱 Experienced with: Next.js, React, Node.js, TypeScript, and JavaScript for modern web application development.
 - 📫 How to reach me:
 https://www.linkedin.com/in/syifa-chandra-tiffani-sumardi/
 
