@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Syifa GitHub Banner" width="100%"/>
+<img src="./assets/banner1.jpg" alt="Syifa GitHub Banner" width="100%"/>
 
 <br>
 
