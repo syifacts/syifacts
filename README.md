@@ -17,12 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-# 🌸 Hi, I'm Syifa! 👋
+# 🌸 Hi, I'm Syifa Chandra Tiffani Sumardi! 👋
 
 ### 💻 Web Developer • Fresh Graduate • PNJ 🎓
 
 **Building modern web applications with creativity & curiosity ✨**
-
+<br> ⋆. 𐙚 ˚ ⋆｡°✩ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 <br>
 
 <a href="https://www.linkedin.com/in/syifa-chandra-tiffani-sumardi/">
@@ -33,7 +33,13 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 </div>
+<br>
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140"/>
 
+₊˚⊹♡ Welcome to my little corner of GitHub! ♡⊹˚₊
+
+</div>
 ---
 
 ## 🎀 About Me
@@ -45,7 +51,8 @@ I'm passionate about **Web Development** and enjoy building modern, responsive, 
 My experience includes developing both **frontend and backend features**, working with APIs and databases, and implementing application features based on functional requirements.
 
 > 🌷 *Learning, building, and improving — one project at a time.*
-
+<br>
+⋆. 𐙚 ˚ ✦ ₊˚⊹♡ ✧˖°
 ---
 
 ## 💻 Tech Stack
@@ -96,9 +103,11 @@ A web-based psychological testing application developed using:
 * 🔐 Object-Level Authorization (OLA)
 * 📄 PDF report generation and verification
 
-This project also became the basis of my final thesis, focusing on **web application security, Object-Level Authorization, and ED25519 digital signatures**.
+This project also became the basis of my final thesis, focusing on **web application security, Object-Level Authorization, and ED25519 digital signatures**. 
 
 ---
+<br>
+⋆. 𐙚 ˚ ✦ ₊˚⊹♡ ✧˖°
 
 ## 🎓 Education
 
@@ -107,7 +116,9 @@ Diploma in Multimedia and Network Engineering
 **2022 – 2026** • GPA **3.82 / 4.00**
 
 ---
-
+<br>
+⋆. 𐙚 ˚ ✦ ₊˚⊹♡ ✧˖°
+<br>
 ## 🌷 What I Enjoy Building
 
 ```text
@@ -118,7 +129,8 @@ Diploma in Multimedia and Network Engineering
 🔐 Secure Web Applications
 ```
 
-
+<br>
+⋆. 𐙚 ˚ ✦ ₊˚⊹♡ ✧˖°
 ---
 
 ## 🌸 Currently
@@ -132,7 +144,8 @@ Diploma in Multimedia and Network Engineering
 ✨ Building projects and learning new technologies
 
 </div>
-
+<br>
+⋆. 𐙚 ˚ ✦ ₊˚⊹♡ ✧˖°
 ---
 
 ## 📫 Let's Connect
