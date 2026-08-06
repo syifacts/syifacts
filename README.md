@@ -113,7 +113,7 @@ This project also became the basis of my final thesis, focusing on **web applica
 
 **Jakarta State Polytechnic (PNJ)**
 Diploma in Multimedia and Network Engineering
-**2022 – 2026** • GPA **3.82 / 4.00**
+**2022 – 2026** • GPA **3.84 / 4.00**
 
 ---
 <br>
